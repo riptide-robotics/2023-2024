@@ -7,6 +7,7 @@ INJECTED from /Users/alokthakrar/Projects/2023-2024/TeamCode/src/main/AndroidMan
 MERGED from [:FtcRobotController] /Users/alokthakrar/Projects/2023-2024/FtcRobotController/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-80:12
 MERGED from [org.firstinspires.ftc:OnBotJava:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/2bad687eacdbfab09e416a0c13cd9a65/transformed/jetified-OnBotJava-9.0.0/AndroidManifest.xml:34:1-43:12
 MERGED from [org.firstinspires.ftc:Blocks:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/a03ad0d15fa1dac627c7b6f87e973d4e/transformed/jetified-Blocks-9.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.acmerobotics.dashboard:dashboard:0.4.13] /Users/alokthakrar/.gradle/caches/transforms-3/ef999c84d897145cc5214d235a5f043b/transformed/jetified-dashboard-0.4.13/AndroidManifest.xml:2:1-9:12
 MERGED from [org.firstinspires.ftc:FtcCommon:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/f3db1d91de045c4f4f0ad1d73108d9ca/transformed/jetified-FtcCommon-9.0.0/AndroidManifest.xml:3:1-174:12
 MERGED from [org.firstinspires.ftc:Inspection:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/c31f132a1ae5b681de9165b13ebe5452/transformed/jetified-Inspection-9.0.0/AndroidManifest.xml:2:1-32:12
 MERGED from [org.firstinspires.ftc:RobotServer:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/1518fb8e1fbc4e9de9875a5089a2a0db/transformed/jetified-RobotServer-9.0.0/AndroidManifest.xml:2:1-11:12
@@ -16,9 +17,9 @@ MERGED from [org.firstinspires.ftc:RobotCore:9.0.0] /Users/alokthakrar/.gradle/c
 MERGED from [org.firstinspires.ftc:Tfod:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/d7320dc0bf5b56f74fa5a27caf3c849a/transformed/jetified-Tfod-9.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [org.firstinspires.ftc:gameAssets-CenterStage:1.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/23d4ddfcbe072c5344e6554db9480b09/transformed/jetified-gameAssets-CenterStage-1.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.3] /Users/alokthakrar/.gradle/caches/transforms-3/e722e762881abe98ea31bf266b69a4c2/transformed/jetified-tensorflow-lite-task-vision-0.4.3/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/c6f9a08362f0b2ebd1f0ffa501e6b073/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [org.tensorflow:tensorflow-lite:2.12.0] /Users/alokthakrar/.gradle/caches/transforms-3/3c270aebce2a0c27e9571cad265d204f/transformed/jetified-tensorflow-lite-2.12.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /Users/alokthakrar/.gradle/caches/transforms-3/77b030d33441ad2424efa99d4f05c37e/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/c6f9a08362f0b2ebd1f0ffa501e6b073/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/alokthakrar/.gradle/caches/transforms-3/b55addf44cbfb7cef1f48f643cf871f7/transformed/jetified-threetenabp-1.3.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/alokthakrar/.gradle/caches/transforms-3/5a6c3bdc4d162f256ce385235f9ca0fe/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/0de24351b70db0cc25397c9dbcae2c0f/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -117,6 +118,8 @@ MERGED from [org.firstinspires.ftc:OnBotJava:9.0.0] /Users/alokthakrar/.gradle/c
 MERGED from [org.firstinspires.ftc:OnBotJava:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/2bad687eacdbfab09e416a0c13cd9a65/transformed/jetified-OnBotJava-9.0.0/AndroidManifest.xml:39:5-41:41
 MERGED from [org.firstinspires.ftc:Blocks:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/a03ad0d15fa1dac627c7b6f87e973d4e/transformed/jetified-Blocks-9.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [org.firstinspires.ftc:Blocks:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/a03ad0d15fa1dac627c7b6f87e973d4e/transformed/jetified-Blocks-9.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.acmerobotics.dashboard:dashboard:0.4.13] /Users/alokthakrar/.gradle/caches/transforms-3/ef999c84d897145cc5214d235a5f043b/transformed/jetified-dashboard-0.4.13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.acmerobotics.dashboard:dashboard:0.4.13] /Users/alokthakrar/.gradle/caches/transforms-3/ef999c84d897145cc5214d235a5f043b/transformed/jetified-dashboard-0.4.13/AndroidManifest.xml:5:5-7:41
 MERGED from [org.firstinspires.ftc:FtcCommon:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/f3db1d91de045c4f4f0ad1d73108d9ca/transformed/jetified-FtcCommon-9.0.0/AndroidManifest.xml:8:5-10:41
 MERGED from [org.firstinspires.ftc:FtcCommon:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/f3db1d91de045c4f4f0ad1d73108d9ca/transformed/jetified-FtcCommon-9.0.0/AndroidManifest.xml:8:5-10:41
 MERGED from [org.firstinspires.ftc:Inspection:9.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/c31f132a1ae5b681de9165b13ebe5452/transformed/jetified-Inspection-9.0.0/AndroidManifest.xml:7:5-9:41
@@ -135,12 +138,12 @@ MERGED from [org.firstinspires.ftc:gameAssets-CenterStage:1.0.0] /Users/alokthak
 MERGED from [org.firstinspires.ftc:gameAssets-CenterStage:1.0.0] /Users/alokthakrar/.gradle/caches/transforms-3/23d4ddfcbe072c5344e6554db9480b09/transformed/jetified-gameAssets-CenterStage-1.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.3] /Users/alokthakrar/.gradle/caches/transforms-3/e722e762881abe98ea31bf266b69a4c2/transformed/jetified-tensorflow-lite-task-vision-0.4.3/AndroidManifest.xml:5:5-7:41
 MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.3] /Users/alokthakrar/.gradle/caches/transforms-3/e722e762881abe98ea31bf266b69a4c2/transformed/jetified-tensorflow-lite-task-vision-0.4.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/c6f9a08362f0b2ebd1f0ffa501e6b073/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/c6f9a08362f0b2ebd1f0ffa501e6b073/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [org.tensorflow:tensorflow-lite:2.12.0] /Users/alokthakrar/.gradle/caches/transforms-3/3c270aebce2a0c27e9571cad265d204f/transformed/jetified-tensorflow-lite-2.12.0/AndroidManifest.xml:6:5-7:38
 MERGED from [org.tensorflow:tensorflow-lite:2.12.0] /Users/alokthakrar/.gradle/caches/transforms-3/3c270aebce2a0c27e9571cad265d204f/transformed/jetified-tensorflow-lite-2.12.0/AndroidManifest.xml:6:5-7:38
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /Users/alokthakrar/.gradle/caches/transforms-3/77b030d33441ad2424efa99d4f05c37e/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:20:5-44
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /Users/alokthakrar/.gradle/caches/transforms-3/77b030d33441ad2424efa99d4f05c37e/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/c6f9a08362f0b2ebd1f0ffa501e6b073/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/alokthakrar/.gradle/caches/transforms-3/c6f9a08362f0b2ebd1f0ffa501e6b073/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/alokthakrar/.gradle/caches/transforms-3/b55addf44cbfb7cef1f48f643cf871f7/transformed/jetified-threetenabp-1.3.1/AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/alokthakrar/.gradle/caches/transforms-3/b55addf44cbfb7cef1f48f643cf871f7/transformed/jetified-threetenabp-1.3.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/alokthakrar/.gradle/caches/transforms-3/5a6c3bdc4d162f256ce385235f9ca0fe/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
